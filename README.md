@@ -1,7 +1,5 @@
 # Dokumentacja projektu - Inżynieria Oprogramowania 2025/2026
 
-## I. Wymagane dokumenty
-
 ### 1. Charakterystyka oprogramowania
 **a. Nazwa skrócona:** Turystyka-PCA
 
