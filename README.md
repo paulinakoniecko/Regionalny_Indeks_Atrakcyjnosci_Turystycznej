@@ -63,9 +63,9 @@ System ma ułatwić użytkownikowi szybkie porównanie potencjału turystycznego
 ### 5. Testy
 
 **a. Scenariusze testów:**
-1. **ST_01:** Uruchomienie pobierania danych dla roku 2022 – sprawdzenie kompletności tabeli (16 województw).
-2. **ST_02:** Test odporności na limity API – wymuszenie błędu 429 i weryfikacja działania mechanizmu Retry.
-3. **ST_03:** Test UI – weryfikacja wyświetlania dymka (tooltip) na mapie po najechaniu myszą.
+1. **ST_01:** Uruchomienie pobierania danych dla roku 2022 - sprawdzenie kompletności tabeli (16 województw).
+2. **ST_02:** Test odporności na limity API - wymuszenie błędu 429 i weryfikacja działania mechanizmu Retry.
+3. **ST_03:** Test UI - weryfikacja wyświetlania dymka (tooltip) na mapie po najechaniu myszą.
 
 **b. Sprawozdanie z wykonania scenariuszy testów:**
 - **ST_01:** Wynik pozytywny. Dane pobrane pomyślnie, brak pustych rekordów.
