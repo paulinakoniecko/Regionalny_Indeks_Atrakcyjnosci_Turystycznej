@@ -101,16 +101,18 @@ W procesie budowy wskaźnika kompozytowego kluczowe było zachowanie obiektywizm
 2.  Zarejestruj się i wygeneruj własny klucz API (identyfikator klienta).
 3.  Otwórz kod aplikacji i wklej klucz w miejscu: `MY_API_KEY = "TWÓJ_KLUCZ"`.
 
-### Krok 2: Instalacja środowiska
-Uruchom w terminalu systemowym lub wewnątrz środowiska wirtualnego:
-```bash
-pip install requests pandas numpy scikit-learn plotly gradio
-```
+### Krok 3: Włączenie kodu
+Po zainstalowaniu wymaganych bibliotek należy uruchomić program w Terminalu, postępując zgodnie z poniższą instrukcją:
 
-### Krok 3: Uruchomienie aplikacji
-1. Otwórz główny plik projektu `Alicja_Skrzynska_Paulina_Koniecko_projekt_inzynieria_oprogramowania.ipynb` w środowisku Jupyter Notebook lub VS Code.
-2. Uruchom wszystkie komórki za pomocą opcji **Run All**.
-3. Po zainicjowaniu interfejsu, wybierz interesujący Cię rok w panelu Gradio i kliknij przycisk **"Pobierz dane i generuj mapę"**.
+1. Wpisz komendę `python` (pamiętaj o spacji po słowie).
+2. Aby komenda uruchamiająca program zadziałała, należy upewnić się, gdzie został zapisany plik. Najprostszym sposobem będzie przeciągnięcie pliku `A_Skrzyńska_P_Koniecko_projekt_inżynieria oprogramowania.py` z pulpitu lub folderu, w którym się znajduje, bezpośrednio do okna Terminala (w taki sposób Terminal sam wpisze poprawną ścieżkę).
+3. Naciśnij klawisz **Enter**.
+
+### Krok 4: Obsługa aplikacji i wyniki
+1. Terminal powinien pokazać link: `Running on local URL:  http://127.0.0.1:7860`.
+2. Należy skopiować ten link i otworzyć go w przeglądarce internetowej.
+3. W oknie przeglądarki naciśnij przycisk **"Analizuj"**.
+4. Po wykonaniu wszystkich działań w oknie przeglądarki powinna pokazać się **mapa**, na którą można najechać kursorem, aby zobaczyć dokładne wyniki dla danego województwa.
 
 ---
 
