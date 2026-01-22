@@ -67,8 +67,7 @@
 | **Plotly** | Generowanie interaktywnych map i wykresów | 5.24.1 |
 | **Gradio** | Serwer interfejsu webowego (User Interface) | 6.3.0 |
 
-**c. Prezentacja omawiająca wykorzystywane technologie:** Pełna prezentacja merytoryczna omawiająca wskaźniki kompozytowe oraz technologie znajduje się w pliku:  
-[Wskaźniki-kompozytowe_PK_AS.pdf](./Wskaźniki-kompozytowe_PK_%20AS.pdf)
+**c. Prezentacja omawiająca wykorzystywane technologie:** Pełna prezentacja merytoryczna omawiająca wskaźniki kompozytowe oraz technologie znajduje się w pliku: [Wskaźniki-kompozytowe_PK_AS.pdf](./Wskaźniki-kompozytowe_PK_%20AS.pdf)
 
 ---
 
